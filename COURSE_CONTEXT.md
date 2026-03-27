@@ -31,12 +31,3 @@ The original submission-oriented materials are preserved in:
 
 Because the original project used large raw and processed files, this public version is intended to showcase the methodology, modeling workflow, report, and outputs rather than function as a fully self-contained data bundle.
 
-## Possible Course Constraints Reflected in the Work
-
-Based on the included materials, the project appears to have been structured around:
-
-- A final report
-- A final notebook
-- Transparent presentation of model outputs, figures, and robustness checks
-
-If needed, this file can be updated later with the exact assignment prompt, grading rubric, or professor-provided requirements.
