@@ -52,6 +52,7 @@ Top signals in the XGBoost model included historical booking rate, days to snaps
 - `project/images/figures/`: exported plots
 - `project/images/tables/`: exported result tables
 - `project/README_submission.md`: original class submission README
+- `COURSE_CONTEXT.md`: course and submission context for the original academic project
 - `Report_FinalProject_DMM.pdf`: final written report
 
 ## Reproducibility
