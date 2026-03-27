@@ -1,0 +1,46 @@
+block,group,metric,value
+weather_signal,train,unique_dates,305.0
+weather_signal,val,unique_dates,172.0
+weather_signal,test,unique_dates,172.0
+weather_signal,train,non_missing_share_temp_max,1.0
+weather_signal,val,non_missing_share_temp_max,1.0
+weather_signal,test,non_missing_share_temp_max,1.0
+weather_signal,train,non_missing_share_temp_min,1.0
+weather_signal,val,non_missing_share_temp_min,1.0
+weather_signal,test,non_missing_share_temp_min,1.0
+weather_signal,train,non_missing_share_precipitation_sum,1.0
+weather_signal,val,non_missing_share_precipitation_sum,1.0
+weather_signal,test,non_missing_share_precipitation_sum,1.0
+weather_signal,train,n_unique_temp_max,162.0
+weather_signal,val,n_unique_temp_max,58.0
+weather_signal,test,n_unique_temp_max,7.0
+weather_signal,train,n_unique_temp_min,122.0
+weather_signal,val,n_unique_temp_min,56.0
+weather_signal,test,n_unique_temp_min,7.0
+weather_signal,train,n_unique_precipitation_sum,36.0
+weather_signal,val,n_unique_precipitation_sum,20.0
+weather_signal,test,n_unique_precipitation_sum,7.0
+baseline_vs_weather_delta,L1 Logistic | roc_auc,baseline,0.5479511116980078
+baseline_vs_weather_delta,L1 Logistic | pr_auc,baseline,0.5182866114463432
+baseline_vs_weather_delta,L1 Logistic | f1,baseline,0.5095339432117816
+baseline_vs_weather_delta,L1 Logistic | brier,baseline,0.29073915486957363
+baseline_vs_weather_delta,XGBoost | roc_auc,baseline,0.5935958417475605
+baseline_vs_weather_delta,XGBoost | pr_auc,baseline,0.5666301413676474
+baseline_vs_weather_delta,XGBoost | f1,baseline,0.5696035848352037
+baseline_vs_weather_delta,XGBoost | brier,baseline,0.362546161331792
+baseline_vs_weather_delta,L1 Logistic | roc_auc,with_weather_controls,0.5477076179110719
+baseline_vs_weather_delta,L1 Logistic | pr_auc,with_weather_controls,0.5180837304955133
+baseline_vs_weather_delta,L1 Logistic | f1,with_weather_controls,0.5091471182755516
+baseline_vs_weather_delta,L1 Logistic | brier,with_weather_controls,0.29094489458508355
+baseline_vs_weather_delta,XGBoost | roc_auc,with_weather_controls,0.5931145861609928
+baseline_vs_weather_delta,XGBoost | pr_auc,with_weather_controls,0.5641584367108927
+baseline_vs_weather_delta,XGBoost | f1,with_weather_controls,0.567284983562977
+baseline_vs_weather_delta,XGBoost | brier,with_weather_controls,0.3587443686133415
+baseline_vs_weather_delta,L1 Logistic | roc_auc,delta,-0.00024349378693588886
+baseline_vs_weather_delta,L1 Logistic | pr_auc,delta,-0.0002028809508299867
+baseline_vs_weather_delta,L1 Logistic | f1,delta,-0.00038682493622999026
+baseline_vs_weather_delta,L1 Logistic | brier,delta,0.00020573971550991166
+baseline_vs_weather_delta,XGBoost | roc_auc,delta,-0.0004812555865677526
+baseline_vs_weather_delta,XGBoost | pr_auc,delta,-0.002471704656754725
+baseline_vs_weather_delta,XGBoost | f1,delta,-0.002318601272226717
+baseline_vs_weather_delta,XGBoost | brier,delta,-0.003801792718450492

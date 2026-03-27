@@ -1,0 +1,43 @@
+block,group,metric,value
+signal_strength,train,unique_dates,305.0
+signal_strength,val,unique_dates,172.0
+signal_strength,test,unique_dates,172.0
+signal_strength,train,event_dates,2.0
+signal_strength,val,event_dates,108.0
+signal_strength,test,event_dates,142.0
+signal_strength,train,event_day_share,0.006557377049180328
+signal_strength,val,event_day_share,0.627906976744186
+signal_strength,test,event_day_share,0.8255813953488372
+signal_strength,train,mean_event_count_total,0.03278688524590164
+signal_strength,val,mean_event_count_total,10.05232558139535
+signal_strength,test,mean_event_count_total,3.377906976744186
+signal_strength,train,mean_event_count_city_calendar,2.144262295081967
+signal_strength,val,mean_event_count_city_calendar,0.313953488372093
+signal_strength,test,mean_event_count_city_calendar,0.0
+signal_strength,train,mean_event_count_tse_permit,8.668852459016394
+signal_strength,val,mean_event_count_tse_permit,5.622093023255814
+signal_strength,test,mean_event_count_tse_permit,1.127906976744186
+baseline_vs_events_delta,L1 Logistic | roc_auc,baseline,0.5479511116980078
+baseline_vs_events_delta,L1 Logistic | pr_auc,baseline,0.5182866114463432
+baseline_vs_events_delta,L1 Logistic | f1,baseline,0.5095339432117816
+baseline_vs_events_delta,L1 Logistic | brier,baseline,0.29073915486957363
+baseline_vs_events_delta,XGBoost | roc_auc,baseline,0.5935958417475605
+baseline_vs_events_delta,XGBoost | pr_auc,baseline,0.5666301413676474
+baseline_vs_events_delta,XGBoost | f1,baseline,0.5696035848352037
+baseline_vs_events_delta,XGBoost | brier,baseline,0.362546161331792
+baseline_vs_events_delta,L1 Logistic | roc_auc,with_event_controls,0.5480633198148182
+baseline_vs_events_delta,L1 Logistic | pr_auc,with_event_controls,0.5184295042427269
+baseline_vs_events_delta,L1 Logistic | f1,with_event_controls,0.5947447275866885
+baseline_vs_events_delta,L1 Logistic | brier,with_event_controls,0.2924358335867109
+baseline_vs_events_delta,XGBoost | roc_auc,with_event_controls,0.5902405326583896
+baseline_vs_events_delta,XGBoost | pr_auc,with_event_controls,0.5662761778548878
+baseline_vs_events_delta,XGBoost | f1,with_event_controls,0.5592258952286473
+baseline_vs_events_delta,XGBoost | brier,with_event_controls,0.3564053967137533
+baseline_vs_events_delta,L1 Logistic | roc_auc,delta,0.00011220811681034171
+baseline_vs_events_delta,L1 Logistic | pr_auc,delta,0.0001428927963836868
+baseline_vs_events_delta,L1 Logistic | f1,delta,0.08521078437490692
+baseline_vs_events_delta,L1 Logistic | brier,delta,0.0016966787171372455
+baseline_vs_events_delta,XGBoost | roc_auc,delta,-0.0033553090891709214
+baseline_vs_events_delta,XGBoost | pr_auc,delta,-0.00035396351275962523
+baseline_vs_events_delta,XGBoost | f1,delta,-0.010377689606556384
+baseline_vs_events_delta,XGBoost | brier,delta,-0.0061407646180386966

@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Local caches
+_swiftcache/
+.ipynb_checkpoints/
+_eval/
+
+# Archives and local exports
+*.zip
+submissionFINAL/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter outputs
+*.nbconvert.*
+
+# Large project data not recommended for regular GitHub hosting
+project/data/raw/
+project/data/processed/
+
+# Large standalone artifacts
+project/data/processed/curated_panel.csv.gz
+project/data/raw/inside_airbnb/2025-12-04/reviews.csv.gz

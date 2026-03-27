@@ -1,0 +1,295 @@
+feature,importance
+num__listing_hist_booking_rate,0.031821236
+num__days_to_snapshot,0.009251929
+cat__property_type_Entire villa,0.0073974063
+cat__property_type_Private room in condo,0.00726344
+cat__neighbourhood_Carthay,0.007135306
+cat__neighbourhood_Hermosa Beach,0.0071284524
+cat__property_type_Private room in villa,0.0066619855
+cat__month_7,0.0063616075
+cat__neighbourhood_Sawtelle,0.006358955
+cat__month_6,0.006344965
+cat__neighbourhood_Westwood,0.0063262866
+cat__neighbourhood_Mayflower Village,0.006076595
+cat__neighbourhood_Del Aire,0.0058168126
+cat__month_8,0.005789673
+cat__neighbourhood_Beverlywood,0.0057624937
+cat__neighbourhood_Hollywood Hills,0.0056145685
+cat__neighbourhood_Tarzana,0.0055992953
+cat__neighbourhood_Palms,0.0053423448
+cat__neighbourhood_Del Rey,0.005308993
+cat__neighbourhood_Hollywood,0.0052665765
+cat__neighbourhood_Van Nuys,0.005249885
+cat__neighbourhood_El Monte,0.0052283085
+cat__neighbourhood_Historic South-Central,0.0052244063
+cat__neighbourhood_Beverly Grove,0.005150265
+cat__room_type_Entire home/apt,0.0051434683
+cat__neighbourhood_Bel-Air,0.0051361145
+cat__neighbourhood_Mid-City,0.005133854
+cat__neighbourhood_Downtown,0.0051070265
+cat__neighbourhood_Northwest Antelope Valley,0.0050892583
+cat__neighbourhood_Venice,0.005084989
+cat__neighbourhood_Eagle Rock,0.005080204
+cat__room_type_Private room,0.0050433795
+cat__property_type_Private room in townhouse,0.00494659
+cat__room_type_Hotel room,0.0049358467
+cat__neighbourhood_San Pasqual,0.004921421
+cat__neighbourhood_Inglewood,0.004911454
+cat__neighbourhood_West Los Angeles,0.0049065715
+cat__neighbourhood_Lincoln Heights,0.0048992285
+cat__property_type_Entire rental unit,0.0048741945
+cat__neighbourhood_Pico-Robertson,0.0048560547
+cat__neighbourhood_Echo Park,0.0048105055
+cat__property_type_Private room in rental unit,0.004724457
+cat__property_type_Private room in guesthouse,0.0047136536
+cat__neighbourhood_Pacific Palisades,0.0046700807
+cat__neighbourhood_Koreatown,0.004647126
+cat__neighbourhood_Marina del Rey,0.0046055214
+cat__property_type_Private room in bed and breakfast,0.004574828
+cat__neighbourhood_Sierra Madre,0.004571327
+cat__neighbourhood_Santa Monica,0.0045612245
+cat__neighbourhood_Calabasas,0.004545493
+cat__neighbourhood_El Sereno,0.00452502
+cat__neighbourhood_Playa Vista,0.004518402
+cat__property_type_Entire guesthouse,0.0045175664
+cat__neighbourhood_Unincorporated Santa Monica Mountains,0.0044977707
+cat__neighbourhood_San Gabriel,0.0044613923
+num__log_price,0.004431021
+num__beds,0.0044147153
+cat__neighbourhood_Westchester,0.0043989834
+cat__property_type_Room in hotel,0.0043967413
+cat__property_type_Entire serviced apartment,0.0043864707
+cat__neighbourhood_West Hills,0.004375092
+cat__property_type_Entire condo,0.004348626
+cat__neighbourhood_Duarte,0.0043321927
+cat__neighbourhood_Pasadena,0.0043211505
+cat__neighbourhood_Encino,0.0043039187
+cat__neighbourhood_Temple City,0.004302968
+cat__neighbourhood_Brentwood,0.0042906157
+cat__neighbourhood_Mar Vista,0.004276425
+num__bedrooms,0.004262522
+num__cos_doy_2,0.004254541
+cat__neighbourhood_Sun Valley,0.0042474936
+num__listing_minimum_nights,0.0042413934
+cat__neighbourhood_Vermont-Slauson,0.004219948
+cat__property_type_Entire loft,0.0042130956
+cat__month_10,0.004173661
+cat__neighbourhood_Central-Alameda,0.0041657933
+cat__neighbourhood_Rowland Heights,0.004162659
+cat__neighbourhood_Santa Clarita,0.004155992
+cat__neighbourhood_Los Feliz,0.0041292873
+cat__neighbourhood_North Hollywood,0.004111309
+cat__property_type_Entire guest suite,0.0040928777
+cat__neighbourhood_Lennox,0.0040879156
+cat__neighbourhood_Fairfax,0.004076085
+cat__neighbourhood_Culver City,0.004050669
+num__instant_bookable,0.004041974
+cat__neighbourhood_Sherman Oaks,0.0040414287
+cat__neighbourhood_Westmont,0.0040397313
+cat__neighbourhood_Westlake,0.0040279794
+cat__neighbourhood_Exposition Park,0.004009192
+cat__neighbourhood_Downey,0.0039952113
+cat__neighbourhood_Azusa,0.003953119
+num__price_vs_neighbourhood_median,0.003946279
+num__amenities_count,0.003943578
+cat__neighbourhood_Pomona,0.003935213
+num__accommodates,0.0039244737
+cat__neighbourhood_South El Monte,0.003910134
+cat__neighbourhood_Avocado Heights,0.0039039422
+cat__neighbourhood_Lancaster,0.0038959384
+cat__month_5,0.0038909165
+cat__neighbourhood_Hacienda Heights,0.0038786058
+cat__property_type_Shared room in home,0.00387253
+cat__neighbourhood_Valinda,0.0038655181
+cat__neighbourhood_West Hollywood,0.0038231977
+cat__neighbourhood_Chatsworth,0.003809496
+num__sin_doy_2,0.0037867876
+num__longitude,0.0037826567
+cat__neighbourhood_West Whittier-Los Nietos,0.0037763447
+cat__neighbourhood_Highland Park,0.0037567336
+cat__property_type_Private room in home,0.0037406455
+cat__neighbourhood_Valley Glen,0.003736994
+cat__neighbourhood_Woodland Hills,0.0037220316
+cat__neighbourhood_Gardena,0.0037141666
+cat__neighbourhood_View Park-Windsor Hills,0.0037093607
+cat__neighbourhood_La Crescenta-Montrose,0.0036962193
+cat__neighbourhood_Studio City,0.0036950887
+cat__neighbourhood_Monrovia,0.003681804
+cat__neighbourhood_Torrance,0.003665544
+cat__neighbourhood_Veterans Administration,0.0036614554
+cat__neighbourhood_Glendora,0.0036560695
+cat__neighbourhood_West Carson,0.003641154
+cat__property_type_Entire townhouse,0.0036407318
+cat__neighbourhood_Montecito Heights,0.0036306183
+cat__neighbourhood_Topanga,0.0036261003
+cat__neighbourhood_Rancho Palos Verdes,0.0036093127
+cat__neighbourhood_Beverly Hills,0.0036056542
+cat__neighbourhood_Alhambra,0.0036041331
+num__review_scores_rating,0.0035951133
+cat__neighbourhood_Beverly Crest,0.0035941256
+cat__room_type_Shared room,0.0035900685
+num__latitude,0.003580811
+cat__neighbourhood_Vermont Square,0.0035711648
+cat__neighbourhood_Malibu,0.0035704873
+cat__neighbourhood_Pico-Union,0.0035682747
+cat__neighbourhood_Redondo Beach,0.0035672
+cat__neighbourhood_Lakewood,0.003560509
+cat__property_type_Private room,0.00353674
+cat__neighbourhood_North Hills,0.0035214038
+cat__neighbourhood_Burbank,0.0035183132
+cat__neighbourhood_West Covina,0.0035167004
+cat__neighbourhood_Hyde Park,0.0035116815
+cat__month_11,0.0035064144
+cat__month_9,0.0034757014
+cat__neighbourhood_Hollywood Hills West,0.0034580685
+cat__neighbourhood_Altadena,0.0034369733
+cat__neighbourhood_East Los Angeles,0.003421578
+num__bathrooms_std,0.0034007572
+cat__neighbourhood_Vernon,0.0033895047
+num__number_of_reviews,0.0033787254
+cat__month_12,0.0033389635
+cat__neighbourhood_Long Beach,0.0033160523
+cat__neighbourhood_Vincent,0.0033149917
+num__host_is_superhost,0.0033084566
+cat__neighbourhood_University Park,0.0033015863
+num__cos_doy,0.0032917308
+cat__neighbourhood_Mid-Wilshire,0.0032796292
+cat__property_type_Private room in bungalow,0.0032699592
+cat__neighbourhood_Unincorporated Catalina Island,0.0032602896
+cat__neighbourhood_Arlington Heights,0.0032516697
+cat__month_4,0.003247149
+cat__neighbourhood_Panorama City,0.0032447418
+cat__neighbourhood_Silver Lake,0.0032263012
+cat__neighbourhood_Tujunga,0.003225109
+cat__neighbourhood_South San Gabriel,0.0032209647
+cat__neighbourhood_Hancock Park,0.003216493
+num__week_of_year,0.003192776
+cat__property_type_Camper/RV,0.003155269
+cat__property_type_Shared room in rental unit,0.0031349664
+cat__neighbourhood_Hawthorne,0.0031191537
+cat__neighbourhood_Jefferson Park,0.0031071797
+cat__neighbourhood_Manchester Square,0.0031006807
+cat__neighbourhood_San Pedro,0.0030770127
+cat__neighbourhood_Diamond Bar,0.003061371
+cat__neighbourhood_Whittier,0.003058838
+cat__neighbourhood_Chinatown,0.0030411552
+cat__neighbourhood_Charter Oak,0.0030403992
+cat__property_type_Entire place,0.0030393966
+cat__neighbourhood_Bellflower,0.0030359614
+cat__neighbourhood_Manhattan Beach,0.0030157904
+cat__neighbourhood_Norwalk,0.003004109
+cat__neighbourhood_Montebello,0.0030021379
+cat__neighbourhood_Rosemead,0.0029994969
+cat__neighbourhood_Mount Washington,0.0029910747
+cat__neighbourhood_East Pasadena,0.0029824653
+cat__neighbourhood_Glendale,0.0029604433
+cat__neighbourhood_La Mirada,0.0029397383
+cat__neighbourhood_Claremont,0.0029352421
+cat__neighbourhood_Baldwin Park,0.002909775
+cat__neighbourhood_Northridge,0.0028980551
+cat__property_type_Private room in loft,0.0028971143
+cat__property_type_Entire home,0.002892267
+cat__neighbourhood_Gramercy Park,0.0028901387
+num__sin_doy,0.0028885803
+cat__neighbourhood_El Segundo,0.0028812492
+cat__neighbourhood_East San Gabriel,0.002865898
+cat__neighbourhood_Quartz Hill,0.0028556807
+cat__month_3,0.002827889
+cat__neighbourhood_Harbor City,0.0028090025
+cat__property_type_Entire bungalow,0.0028022837
+cat__neighbourhood_Valley Village,0.0027721156
+cat__neighbourhood_Arcadia,0.0027604545
+cat__neighbourhood_South Pasadena,0.0027481858
+cat__neighbourhood_Broadway-Manchester,0.0027299179
+cat__neighbourhood_Avalon,0.0027020155
+cat__property_type_Room in boutique hotel,0.0026956117
+cat__neighbourhood_Harvard Heights,0.0026892652
+cat__neighbourhood_Elysian Valley,0.002684513
+cat__property_type_Tiny home,0.0026685859
+cat__neighbourhood_Harbor Gateway,0.0026550558
+cat__neighbourhood_Paramount,0.002643171
+cat__neighbourhood_Lynwood,0.0025987595
+cat__neighbourhood_South San Jose Hills,0.0025874057
+cat__neighbourhood_Walnut,0.0025711881
+cat__neighbourhood_Century City,0.002570469
+cat__neighbourhood_Boyle Heights,0.0025609655
+cat__property_type_Private room in guest suite,0.002546539
+cat__neighbourhood_San Fernando,0.002541787
+cat__neighbourhood_West Adams,0.0025255384
+cat__neighbourhood_Covina,0.0025069772
+cat__neighbourhood_Monterey Park,0.0024916371
+cat__property_type_Entire cottage,0.0024788475
+cat__neighbourhood_Palmdale,0.0024685108
+num__day_of_week,0.0024351445
+cat__neighbourhood_Ladera Heights,0.0024209698
+cat__holiday_type_Public,0.002397537
+cat__property_type_Yurt,0.0023853253
+num__is_holiday,0.0023712458
+cat__neighbourhood_Pico Rivera,0.0023521327
+cat__neighbourhood_East Hollywood,0.0023432455
+cat__neighbourhood_Reseda,0.0023299453
+cat__neighbourhood_Canoga Park,0.0022493391
+cat__neighbourhood_Westlake Village,0.0022168006
+cat__neighbourhood_Atwater Village,0.0021599408
+cat__neighbourhood_Artesia,0.0021452361
+cat__neighbourhood_Larchmont,0.0020848266
+cat__neighbourhood_Lake Balboa,0.0020166207
+cat__neighbourhood_Compton,0.0019568098
+cat__neighbourhood_Winnetka,0.0019340521
+cat__neighbourhood_Porter Ranch,0.0019329769
+cat__neighbourhood_South Gate,0.0019265648
+cat__neighbourhood_Huntington Park,0.0019254952
+cat__neighbourhood_La Puente,0.001916756
+cat__property_type_Farm stay,0.001894322
+cat__neighbourhood_Playa del Rey,0.0018741549
+cat__neighbourhood_San Dimas,0.0018568258
+cat__neighbourhood_Elysian Park,0.0018551396
+cat__neighbourhood_Lawndale,0.0018510572
+cat__property_type_Entire cabin,0.0017206521
+cat__neighbourhood_Mission Hills,0.0017070181
+cat__neighbourhood_Adams-Normandie,0.0016894202
+cat__neighbourhood_South Park,0.00165235
+cat__neighbourhood_Vermont Knolls,0.0016296513
+cat__neighbourhood_Baldwin Hills/Crenshaw,0.0016181988
+cat__neighbourhood_Arleta,0.0016104893
+cat__neighbourhood_Alondra Park,0.0016032833
+cat__neighbourhood_Northwest Palmdale,0.0016016186
+cat__neighbourhood_Granada Hills,0.0015489248
+cat__neighbourhood_Toluca Lake,0.0015437643
+cat__neighbourhood_Rancho Park,0.0015131109
+cat__neighbourhood_Windsor Square,0.0015000838
+cat__neighbourhood_Glassell Park,0.0014032557
+cat__neighbourhood_Willowbrook,0.0013324114
+cat__neighbourhood_Desert View Highlands,0.001290376
+cat__neighbourhood_Unincorporated Santa Susana Mountains,0.0012744529
+cat__neighbourhood_Industry,0.001269238
+cat__neighbourhood_Pacoima,0.0012618583
+cat__property_type_Room in aparthotel,0.001248787
+cat__neighbourhood_Hidden Hills,0.0012290636
+cat__property_type_Shared room in hostel,0.0012213635
+cat__property_type_Room in bed and breakfast,0.0011964554
+cat__neighbourhood_Carson,0.0011930735
+cat__neighbourhood_West Puente Valley,0.0011914383
+cat__neighbourhood_Cerritos,0.0011809253
+cat__property_type_Private room in tent,0.0010406739
+cat__neighbourhood_South Whittier,0.0010359436
+cat__neighbourhood_La Verne,0.0009906575
+cat__neighbourhood_Citrus,0.0009571673
+cat__neighbourhood_Irwindale,0.00089261815
+cat__neighbourhood_Universal City,0.0007978032
+cat__neighbourhood_Castaic Canyons,0.0007840377
+cat__neighbourhood_Palos Verdes Estates,0.0007397707
+cat__neighbourhood_Hasley Canyon,0.0006574381
+num__is_weekend,0.00065436447
+cat__neighbourhood_Vermont Vista,0.00063586625
+cat__property_type_Room in serviced apartment,0.0005985321
+cat__neighbourhood_Lomita,0.00057389785
+cat__neighbourhood_Sylmar,0.00055390404
+cat__neighbourhood_Agua Dulce,0.0005258732
+cat__property_type_Private room in hostel,0.00047526427
+cat__neighbourhood_North El Monte,0.00045744094
+cat__holiday_type_Optional|Public,0.00044926727
+cat__holiday_type_Authorities|School,0.0003532548
+cat__property_type_Treehouse,0.0
+num__year,0.0
+cat__holiday_type_none,0.0
