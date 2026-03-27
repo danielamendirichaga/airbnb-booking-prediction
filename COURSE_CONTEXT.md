@@ -4,7 +4,8 @@ This repository contains a public-facing version of a final project completed fo
 
 - Course: `ECON 425T: Machine Learning for Economists`
 - Institution: `UCLA`
-- Term: `Winter 2026` (assumed from local project structure)
+- Progam: Master of Science in Quantitative Economics (MQE)
+- Term: `Winter 2026` 
 
 ## Project Framing
 
